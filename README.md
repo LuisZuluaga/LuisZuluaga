@@ -1,4 +1,6 @@
-### Hi there 👋
+### Luis Zuluaga - JS Developer
+
+Hi, my name is Luis Zuluaga, I'm a mechanical engineer from Medellin, Colombia. I'm currently developing apps using JS, TS, NodeJS and Electron.
 
 <!--
 **LuisZuluaga/LuisZuluaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
