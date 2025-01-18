@@ -1,4 +1,4 @@
-### Luis Zuluaga - JS Developer
+### Luis Zuluaga - Backend Developer
 
 Hi, my name is Luis Zuluaga, I'm a engineer from Medellin, Colombia. I'm currently developing apps using Rails and VueJS.
 
